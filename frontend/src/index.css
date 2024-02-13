@@ -28,6 +28,10 @@ body{
     width: 50%;
   }
 
+  .header h5 i{
+    display: none;
+  }
+
 }
 
 @media screen and (max-width: 800px) {
@@ -41,6 +45,10 @@ body{
 
   .logo {
     width: 50%;
+  }
+
+  .header h5 i{
+    display: none;
   }
 
 
